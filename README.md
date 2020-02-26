@@ -1,3 +1,8 @@
+OBSERVAÇÃO: por enquanto está sendo montado no repositorio /estudo. Posteriormente, com as solucoes prontas irei incluindo mais por aqui.
+
+######################################################################################################################
+
+
 # solucoes_em_python
 São exercícios resolvidos de diversos livros de algoritmos na linguagem de programação Python.
 
