@@ -1,4 +1,4 @@
-OBSERVAÇÃO: por enquanto está sendo implementado no repositorio estudo/exercicios-github. Posteriormente, com as solucoes prontas irei incluindo mais por aqui.
+OBSERVAÇÃO: por enquanto está sendo implementado no repositorio estudo/exercicios-github. Posteriormente, com as solucoes prontas irei incluindo e concentrando as respostas por aqui.
 
 ######################################################################################################################
 
